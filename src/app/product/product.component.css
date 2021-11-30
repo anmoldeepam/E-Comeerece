@@ -1,0 +1,14 @@
+.container{
+
+}
+#toplayer{
+    background-color: blue;
+}
+.search{
+    color: green;
+    border: 4px solid green;
+}
+.slider{
+    height: 100px;
+
+}
